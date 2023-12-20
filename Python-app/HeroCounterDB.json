@@ -13,7 +13,7 @@
   { "hero": "Illari",       "role":"healer",  "counters": ["D.Va","Doomfist","Winston","Wrecking Ball","Sigma","Genji","Cassidy","Mei","Lifeweaver","Kiriko","Echo"], "synergies": [] },
   { "hero": "Junkrat",      "role":"damage",  "counters": ["Pharah","Echo","Ashe","Soldier 76","Baptiste","Widowmaker","Zarya","Ana"], "synergies": [] },
   { "hero": "Junker Queen", "role":"tank",    "counters": ["Reaper, Bastion","Orisa","Mei","Ana","Kiriko","Zenyatta","Pharah", "Echo","Tracer", "Genji", "Sombra"], "synergies": [] },
-  { "hero": "Lifeweaver",   "role":"healer",  "counters": ["Sombra","Hanzo","Widowmaker","Ashe","Bastion","D.Va","Winston","Wrecking Ball"], "synergies": [] },
+  { "hero": "Lifeweaver",   "role":"support",  "counters": ["Sombra","Hanzo","Widowmaker","Ashe","Bastion","D.Va","Winston","Wrecking Ball"], "synergies": [] },
   { "hero": "Lucio",        "role":"healer",  "counters": ["Mauga","Bastion","Sombra","Roadhog","Pharah","Echo","Moira"], "synergies": [] },
   { "hero": "Mauga",        "role":"tank",    "counters": ["Ana","Zenyatta","Bastion","Sigma","Reinhardt","Torbjorn","Sombra","Junkrat","Orisa","Genji"], "synergies":[]},
   { "hero": "Mei",          "role":"damage",  "counters": ["Widowmaker","Hanzo","Junkrat","Bastion","Sojourn","Kiriko","Mercy","Reaper","Sombra","Pharah","Echo","Reinhardt","Orisa","Zarya"], "synergies": [] },
